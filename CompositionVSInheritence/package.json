@@ -1,0 +1,18 @@
+{
+  "name": "compositionvsinheritence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrency": "^0.1.4",
+    "concurrently": "^5.0.0",
+    "nodemon": "^1.19.4"
+  }
+}
