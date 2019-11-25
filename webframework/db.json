@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mila chayko",
+      "age": 18
+    },
+    {
+      "name": "Andrey Chayko",
+      "age": 31,
+      "id": 2
+    },
+    {
+      "name": "John Deer",
+      "age": 999,
+      "id": 3
+    }
+  ]
+}
