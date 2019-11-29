@@ -49,6 +49,7 @@ Temporary Items
 node_modules/
 build/
 dist/
+.cache/
 
 CompositionVSInheritence/node_modules/atob/bower.json
 CompositionVSInheritence/node_modules/atob/browser-atob.js
